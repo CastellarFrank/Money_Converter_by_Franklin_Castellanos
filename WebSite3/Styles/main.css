@@ -1,0 +1,129 @@
+body, header, footer, section,h1,a,form,img,p{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+body{
+	background: #212121 url("../img/fondo.jpg");
+	font-family: Verdana;
+	font-size: 1em;
+}
+header, section#contenido,footer{
+	max-width: 80%;
+	margin: 0.3em auto;
+}
+
+section#contenido,footer,header h1{
+	background: #B6CBD1;
+	border-radius: 0.5em;
+	text-align: center;
+}
+section#contenido{
+	padding: 6em 0;
+	background: #0F7365;
+	color: #FFFFFF;
+}
+
+footer{
+	padding: 2em 0;
+}
+header{
+	margin-top: 4em;
+}
+
+footer{
+	margin-bottom: 3em;
+}
+#panelDateTame{
+	background: #FFF;
+	width: 100%;
+	height: 100%;
+	padding: .5em;
+	text-align: center;
+	border: 0.1em dashed #000033;
+	vertical-align: middle;
+	border-radius: .5em;
+	margin: 0 auto;
+	color: #000000;
+}
+#Panel1{
+	color: #000000;
+}
+.fade{
+	opacity: 1;
+	filter: alpha(opacity=10);
+	-ms-transition: all 0.5s ease-in;
+	-moz-transition: all 0.5s ease-in;
+	-mo-transition: all 0.5s ease-in;
+	-webkit-transition: all 0.5s ease-in;
+	transition: all 0.5s ease-in;
+}
+.fade:hover{
+	opacity: 0.7;
+	filter: alpha(opacity=7);
+	-ms-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-mo-transition: all 0.5s ease-out;
+	-webkit-transition: all 0.5s ease-out;
+	transition: all 0.5s ease-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
